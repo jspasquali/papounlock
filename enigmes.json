@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "titre": "L'énigme du Sphinx",
+    "indices": [
+      "Indice 1 : Je change au cours de la journée.",
+      "Indice 2 : J'ai été une question célèbre dans la mythologie grecque.",
+      "Indice 3 : La réponse est un être vivant."
+    ],
+    "solution": "L'Homme (qui marche à quatre pattes le matin, deux le midi et trois le soir)."
+  },
+  {
+    "id": 2,
+    "titre": "La clé insaisissable",
+    "indices": [
+      "Indice 1 : Je n'ai pas de serrure, mais je peux ouvrir bien des portes.",
+      "Indice 2 : Je suis immatérielle et pourtant, tout le monde me cherche.",
+      "Indice 3 : Mozart en était un maître."
+    ],
+    "solution": "La clé de sol (ou la musique)."
+  },
+  {
+    "id": 42,
+    "titre": "Le voyageur du temps",
+    "indices": [
+      "Indice 1 : J'ai un visage mais pas d'yeux, des aiguilles mais pas de bras.",
+      "Indice 2 : Je te donne une information précieuse sans jamais parler."
+    ],
+    "solution": "Une horloge."
+  }
+]
