@@ -1,31 +1,432 @@
 [
   {
-    "id": 1,
-    "titre": "L'énigme du Sphinx",
+    "id": 77,
+    "titre": "L'arrivée à Taupe Chef",
     "indices": [
-      "Indice 1 : Je change au cours de la journée.",
-      "Indice 2 : J'ai été une question célèbre dans la mythologie grecque.",
-      "Indice 3 : La réponse est un être vivant."
+      "Regardez bien les portes"
     ],
-    "solution": "L'Homme (qui marche à quatre pattes le matin, deux le midi et trois le soir)."
+    "solution": "XVI (16)"
   },
   {
-    "id": 2,
-    "titre": "La clé insaisissable",
+    "id": 16,
+    "titre": "Ha ha ha!",
     "indices": [
-      "Indice 1 : Je n'ai pas de serrure, mais je peux ouvrir bien des portes.",
-      "Indice 2 : Je suis immatérielle et pourtant, tout le monde me cherche.",
-      "Indice 3 : Mozart en était un maître."
+      "Un nombre se cache dans les rires de Taupe Best"
     ],
-    "solution": "La clé de sol (ou la musique)."
+    "solution": "47"
+  },
+  {
+    "id": 44,
+    "titre": "Le garde-manger",
+    "indices": [
+      "Deux nombres se cachent dans le garde-manger",
+      "Le premier est au centre du garde-manger",
+      "Le second se cache dans un pot d'olives"
+    ],
+    "solution": null
+  },
+  {
+    "id": 45,
+    "titre": "Le garde-manger",
+    "indices": [
+      "Deux nombres se cachent dans le garde-manger",
+      "Le premier est au centre du garde-manger",
+      "Le second se cache dans un pot d'olives"
+    ],
+    "solution": null
+  },
+  {
+    "id": 46,
+    "titre": "Le garde-manger",
+    "indices": [
+      "Deux nombres se cachent dans le garde-manger",
+      "Le premier est au centre du garde-manger",
+      "Le second se cache dans un pot d'olives"
+    ],
+    "solution": null
+  },
+  {
+    "id": 47,
+    "titre": "Le garde-manger",
+    "indices": [
+      "Deux nombres se cachent dans le garde-manger",
+      "Le premier est au centre du garde-manger",
+      "Le second se cache dans un pot d'olives"
+    ],
+    "solution": null
+  },
+  {
+    "id": 84,
+    "titre": "Tableau périodique 1/2",
+    "indices": [
+      "A utiliser lorsque vous aurez récupéré la seconde partie du tableau périodique"
+    ],
+    "solution": null
+  },
+  {
+    "id": 66,
+    "titre": "Le labyrinthe",
+    "indices": [
+      "Il y a peut-être plusieurs solutions à ce labyrinthe",
+      "Les deux chemins possibles feront apparaitre deux chiffres"
+    ],
+    "solution": "93"
+  },
+  {
+    "id": 93,
+    "titre": "Les outils du pâtissier",
+    "indices": [
+      "Ces outils seront utiles pour certaines épreuves de Taupe Chef"
+    ],
+    "solution": null
+  },
+  {
+    "id": 9,
+    "titre": "Salade de lettres",
+    "indices": [
+      "Quel est le point commun entre les lettres A,E,F,H d'un côté, et les lettres B,C,D,G de l'autre?",
+      "Regardez la forme arrondie des lettres",
+      "Une fois grisées les lettres arrondies B,C,D,G,J,O,P,Q,R,S,U, un nombre à deux chiffres apparaitra"
+    ],
+    "solution": "83"
+  },
+  {
+    "id": 7,
+    "titre": "Les ustensiles",
+    "indices": [
+      "A utiliser lorsque vous aurez récupéré la seconde partie des ustensiles"
+    ],
+    "solution": null
+  },
+  {
+    "id": 17,
+    "titre": "L'ananas",
+    "indices": [
+      "Un nombre se cache dans l'ananas!"
+    ],
+    "solution": "42"
   },
   {
     "id": 42,
-    "titre": "Le voyageur du temps",
+    "titre": "La carte à trou",
     "indices": [
-      "Indice 1 : J'ai un visage mais pas d'yeux, des aiguilles mais pas de bras.",
-      "Indice 2 : Je te donne une information précieuse sans jamais parler."
+      "A utiliser lorsque vous aurez récupéré une autre carte avec une ronde de lettres"
     ],
-    "solution": "Une horloge."
+    "solution": null
+  },
+  {
+    "id": 5,
+    "titre": "La pâte à gauffres",
+    "indices": [
+      "Vous avez besoin de la carte des outils du pâtissier pour cette épreuve",
+      "Vous devez déterminer la bonne quantité de farine et de lait, d'après ce que fait le concurrent",
+      "Attention c'est la farine puis le lait!"
+    ],
+    "solution": "35"
+  },
+  {
+    "id": 35,
+    "titre": "Les jumeaux",
+    "indices": [
+      "Il y a deux cartes : 35 et 35'",
+      "Les deux textes ont l'air de se compléter, comment?",
+      "Il faut superposer les taupes \"sous la lumière\", et s'intéresser à leurs tabliers"
+    ],
+    "solution": "48"
+  },
+  {
+    "id": 48,
+    "titre": "Le hanjie",
+    "indices": [
+      "Vous avez besoin d'une autre carte avec un exemple de \"hanjie\"",
+      "Sur la carte d'exemple, remarquez comment les chiffres à gauche et en haut correspondent aux blocs de cases grisées",
+      "Posez une grille de 9 lignes et 13 colonnes et résolvez le hanjie"
+    ],
+    "solution": "29"
+  },
+  {
+    "id": 30,
+    "titre": "Le miel",
+    "indices": [
+      "Un nombre se cache dans le pot de miel"
+    ],
+    "solution": "8"
+  },
+  {
+    "id": 8,
+    "titre": "Le hanjie",
+    "indices": [
+      "Ce papier servira d'indice pour une autre carte"
+    ],
+    "solution": null
+  },
+  {
+    "id": 29,
+    "titre": "Les ustensiles",
+    "indices": [
+      "A utiliser avec la première partie des ustensiles",
+      "Combiner les deux parties pour faire une anamorphose : mettez les yeux au ras des cartes"
+    ],
+    "solution": "59"
+  },
+  {
+    "id": 59,
+    "titre": "La tarte",
+    "indices": [
+      "Vous avez besoin de la carte des outils du pâtissier pour cette épreuve",
+      "Les décorations de la tarte sont faites avec quelles douilles?"
+    ],
+    "solution": "92"
+  },
+  {
+    "id": 92,
+    "titre": "La recette",
+    "indices": [
+      "Vous avez besoin des deux parties du tableau périodique des éléments pour cette épreuve",
+      "Le début des mots est en gras, à quoi ils correspondent?",
+      "Trouvez les éléments correspondant dans le tableau, et additionnez leurs valeurs"
+    ],
+    "solution": "99"
+  },
+  {
+    "id": 63,
+    "titre": "Les associations improbables",
+    "indices": [
+      "Essayez d'associer les cartes \"ingrédient\" quand vous en trouvez, selon les règles, et ajoutez leurs valeurs. Il y a deux associations à trouver"
+    ],
+    "solution": "Première association : citron et miel donnent 83. Deuxième association : rhubarbe et olive donnent 72."
+  },
+  {
+    "id": 83,
+    "titre": "La ronde des lettres",
+    "indices": [
+      "A utiliser lorsque vous aurez récupéré une autre carte avec deux trous"
+    ],
+    "solution": null
+  },
+  {
+    "id": 99,
+    "titre": "Les ingrédients",
+    "indices": [
+      "Vous avez besoin de 2 cartes pour cette épreuve : une ronde de lettres, et une carte à trous. Pensez aux \"associations improbables\" !",
+      "Combinez ces 2 cartes avec l'attache parisienne",
+      "Le mot \"carottes\" a des lettres bleues et rouges, comme les trous de la carte",
+      "Quand une lettre est alignée à un trou, quelle lettre est visible dans l'autre?"
+    ],
+    "solution": "quarante"
+  },
+  {
+    "id": 40,
+    "titre": "L'assiette",
+    "indices": [
+      "Imaginez que vous reconstituez les 3 morceaux de l'assiette",
+      "Il faut peut-être retourner des morceaux pour que les éléments correspondent",
+      "Remarquez les 4 petits crochets qui peuvent se combiner"
+    ],
+    "solution": "33"
+  },
+  {
+    "id": 33,
+    "titre": "L'erreur?",
+    "indices": [
+      "Non? Mais en fait si, c'était la bonne réponse",
+      "Il y a un nombre caché dans l'assiette"
+    ],
+    "solution": "18"
+  },
+  {
+    "id": 18,
+    "titre": "C'est parti",
+    "indices": [
+      "Je crois que c'est clair, 1, 2, 3, et 4"
+    ],
+    "solution": null
+  },
+  {
+    "id": 1,
+    "titre": "Le commis",
+    "indices": [
+      "La recette se déroule dans un certain ordre",
+      "Positionnez les cartes avec les horloges alignées de gauche à droite, et faites le calcul"
+    ],
+    "solution": "26 + 5 = 31"
+  },
+  {
+    "id": 2,
+    "titre": "Le commis",
+    "indices": [
+      "La recette se déroule dans un certain ordre",
+      "Positionnez les cartes avec les horloges alignées de gauche à droite, et faites le calcul"
+    ],
+    "solution": "26 + 5 = 31"
+  },
+  {
+    "id": 3,
+    "titre": "Le commis",
+    "indices": [
+      "La recette se déroule dans un certain ordre",
+      "Positionnez les cartes avec les horloges alignées de gauche à droite, et faites le calcul"
+    ],
+    "solution": "26 + 5 = 31"
+  },
+  {
+    "id": 4,
+    "titre": "Le commis",
+    "indices": [
+      "La recette se déroule dans un certain ordre",
+      "Positionnez les cartes avec les horloges alignées de gauche à droite, et faites le calcul"
+    ],
+    "solution": "26 + 5 = 31"
+  },
+  {
+    "id": 72,
+    "titre": "Les signes du zodiaque",
+    "indices": [
+      "Ce papier servira d'indice pour une autre carte"
+    ],
+    "solution": null
+  },
+  {
+    "id": 31,
+    "titre": "Le rôti de veau",
+    "indices": [
+      "Pour qu'un rôti de veau tienne bien, il faut une ficelle",
+      "Accrochez le nœud de la ficelle dans l'encoche en haut à droite, et saucissonnez le rôti en utilisant toutes les encoches",
+      "Un nombre devrait apparaitre sur la ficelle"
+    ],
+    "solution": "37"
+  },
+  {
+    "id": 37,
+    "titre": "La guerre des restaus",
+    "indices": [
+      "Vous devez avoir les cartes de tous les 6 concurrents (G, C, M, N, T, A), le plan de la ville, et une carte d'indice sur les constellations",
+      "Que pourrait être ma \"bonne étoile\"?",
+      "En partant de l'emplacement de Taupe Chef sur le plan, où mène le capricorne?"
+    ],
+    "solution": "13"
+  },
+  {
+    "id": 13,
+    "titre": "Le relais",
+    "indices": [
+      "Il faut trouver quel plan de travail pourrait correspondre à Crop Taupe",
+      "Un est boiteux, un est gaucher, un est désorganisé, un n'aime pas le fromage..."
+    ],
+    "solution": "95"
+  },
+  {
+    "id": 14,
+    "titre": "Le relais",
+    "indices": [
+      "Il faut trouver quel plan de travail pourrait correspondre à Crop Taupe",
+      "Un est boiteux, un est gaucher, un est désorganisé, un n'aime pas le fromage..."
+    ],
+    "solution": "95"
+  },
+  {
+    "id": 15,
+    "titre": "Le relais",
+    "indices": [
+      "Il faut trouver quel plan de travail pourrait correspondre à Crop Taupe",
+      "Un est boiteux, un est gaucher, un est désorganisé, un n'aime pas le fromage..."
+    ],
+    "solution": "95"
+  },
+  {
+    "id": 95,
+    "titre": "Les plans de travail",
+    "indices": [
+      "Top Gun est de la brigade bleue",
+      "Il y a une seule disposition de tables qui correspond aux trois exemples proposés"
+    ],
+    "solution": "87"
+  },
+  {
+    "id": 96,
+    "titre": "Les plans de travail",
+    "indices": [
+      "Top Gun est de la brigade bleue",
+      "Il y a une seule disposition de tables qui correspond aux trois exemples proposés"
+    ],
+    "solution": "87"
+  },
+  {
+    "id": 87,
+    "titre": "La boite noire",
+    "indices": [
+      "Il fait vraiment noir là dedans, mais on une lampe à UV",
+      "Repérez les marques avec la lampe, suivez les flèches"
+    ],
+    "solution": "74"
+  },
+  {
+    "id": 74,
+    "titre": "La demi-finale",
+    "indices": [
+      "Il faut être malin et prendre en compte les points faibles des concurrents"
+    ],
+    "solution": "51"
+  },
+  {
+    "id": 51,
+    "titre": "La finale",
+    "indices": [
+      "Il faut retracer le parcours depuis Taupe Chef jusqu'au restaurant de Chef Paul; où est-il?"
+    ],
+    "solution": "61"
+  },
+  {
+    "id": 61,
+    "titre": "Énigme 61",
+    "indices": [
+      "Positionnez les concurrents et les couteaux comme indiqué sur la carte",
+      "Retournez les cartes"
+    ],
+    "solution": "4 x 7 = 28"
+  },
+  {
+    "id": 21,
+    "titre": "Rien à signaler"
+  },
+  {
+    "id": 11,
+    "titre": "Rien à signaler"
+  },
+  {
+    "id": 22,
+    "titre": "Rien à signaler"
+  },
+  {
+    "id": 24,
+    "titre": "Rien à signaler"
+  },
+  {
+    "id": 28,
+    "titre": "Bravo vous avez gagné"
+  },
+  {
+    "id": 34,
+    "titre": "Rien à signaler"
+  },
+  {
+    "id": 38,
+    "titre": "Rien à signaler"
+  },
+  {
+    "id": 41,
+    "titre": "Rien à signaler"
+  },
+  {
+    "id": 53,
+    "titre": "Rien à signaler"
+  },
+  {
+    "id": 55,
+    "titre": "Rien à signaler"
+  },
+  {
+    "id": 76,
+    "titre": "Rien à signaler"
   }
 ]

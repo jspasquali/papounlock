@@ -38,7 +38,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         // Crée le titre de l'énigme
         const title = document.createElement('h2');
-        title.textContent = `Énigme n°${card.id} : ${card.titre}`;
+        title.textContent = `${card.id} - ${card.titre}`;
         resultContainer.appendChild(title);
 
         // Crée et affiche chaque indice dans un élément <details>
@@ -57,18 +57,19 @@ document.addEventListener('DOMContentLoaded', () => {
         });
 
         // Crée et affiche la solution, également dans un <details>
-        const solutionDetails = document.createElement('details');
-        solutionDetails.className = 'solution-card';
-        const solutionSummary = document.createElement('summary');
-        solutionSummary.textContent = 'SOLUTION';
-        
-        const solutionContent = document.createElement('div');
-        solutionContent.className = 'solution-content';
-        solutionContent.textContent = card.solution;
-
-        solutionDetails.appendChild(solutionSummary);
-        solutionDetails.appendChild(solutionContent);
-        resultContainer.appendChild(solutionDetails);
+        if (card.solution) {
+            const solutionDetails = document.createElement('details');
+            solutionDetails.className = 'solution-card';
+            const solutionSummary = document.createElement('summary');
+            solutionSummary.textContent = 'Solution';
+            
+            const solutionContent = document.createElement('div');
+            solutionContent.className = 'solution-content';
+            solutionContent.textContent = card.solution;
+            solutionDetails.appendChild(solutionSummary);
+            solutionDetails.appendChild(solutionContent);
+            resultContainer.appendChild(solutionDetails);
+        }
     }
 
     // 3. Écoute l'événement "click" sur le bouton de recherche
