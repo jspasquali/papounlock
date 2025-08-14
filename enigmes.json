@@ -182,9 +182,8 @@
     "id": 92,
     "titre": "La recette",
     "indices": [
-      "Vous avez besoin des deux parties du tableau périodique des éléments pour cette épreuve",
-      "Le début des mots est en gras, à quoi ils correspondent?",
-      "Trouvez les éléments correspondant dans le tableau, et additionnez leurs valeurs"
+      "Le début des mots est en gras, ca ne vous rappelle rien?",
+      "Vous avez besoin des deux parties du tableau périodique des éléments"
     ],
     "solution": "99"
   },
@@ -219,9 +218,8 @@
     "id": 40,
     "titre": "L'assiette",
     "indices": [
-      "Imaginez que vous reconstituez les 3 morceaux de l'assiette",
-      "Il faut peut-être retourner des morceaux pour que les éléments correspondent",
-      "Remarquez les 4 petits crochets qui peuvent se combiner"
+      "L'assiette est transparente, certains morceaux ont pu se retourner",
+      "Remarquez les petits crochets qui forment deux chiffres sur l'assiette reconstituée"
     ],
     "solution": "33"
   },
@@ -247,7 +245,7 @@
     "titre": "Le commis",
     "indices": [
       "La recette se déroule dans un certain ordre",
-      "Positionnez les cartes avec les horloges alignées de gauche à droite, et faites le calcul"
+      "Positionnez les cartes avec les horloges alignées de gauche à droite dans le bon ordre, et faites le calcul"
     ],
     "solution": "26 + 5 = 31"
   },
@@ -292,7 +290,7 @@
     "indices": [
       "Pour qu'un rôti de veau tienne bien, il faut une ficelle",
       "Accrochez le nœud de la ficelle dans l'encoche en haut à droite, et saucissonnez le rôti en utilisant toutes les encoches",
-      "Un nombre devrait apparaitre sur la ficelle"
+      "Les marques sur la ficelle devraient former un nombre"
     ],
     "solution": "37"
   },
@@ -300,9 +298,10 @@
     "id": 37,
     "titre": "La guerre des restaus",
     "indices": [
-      "Vous devez avoir les cartes de tous les 6 concurrents (G, C, M, N, T, A), le plan de la ville, et une carte d'indice sur les constellations",
+      "Vous devez avoir les cartes de tous les 6 concurrents (G, C, M, N, T, A), le plan de la ville, et la carte des signes du zodiaque",
       "Que pourrait être ma \"bonne étoile\"?",
-      "En partant de l'emplacement de Taupe Chef sur le plan, où mène le capricorne?"
+      "En partant de l'emplacement de Taupe Chef sur le plan, où mène le capricorne?",
+      "Les coordonnées du restaurant donnent le nombre à obtenir"
     ],
     "solution": "13"
   },
@@ -356,7 +355,8 @@
     "titre": "La boite noire",
     "indices": [
       "Il fait vraiment noir là dedans, mais on a une lampe à UV",
-      "Repérez les marques avec la lampe, suivez les flèches"
+      "Repérez les marques avec la lampe, suivez les flèches",
+      "Les flèches forment un premier chiffre en haut, un deuxième chiffre en dessous"
     ],
     "solution": "74"
   },
