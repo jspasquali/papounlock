@@ -77,6 +77,14 @@ document.addEventListener('DOMContentLoaded', () => {
         const cardNumber = cardNumberInput.value;
         if (cardNumber) {
             displayCard(cardNumber);
+            cardNumberInput.value = ''; 
+        }
+    });
+        
+    // Permet aussi de valider avec la touche "Entrée" dans le champ de saisie
+    cardNumberInput.addEventListener('keyup', (event) => {
+        if (event.key === 'Enter') {
+            searchButton.click();
         }
     });
     
